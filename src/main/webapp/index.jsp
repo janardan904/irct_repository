@@ -1,7 +1,7 @@
 <html>
 <body>
-  <h1 style="color:red"> Welcome TO Indian Railway !!</h1>
-<h3>Indian Railway Catering and Tourism Corporation<br>
+  <h1 style="color:red"> Welcome To Indian Railway!</h1>
+<p style="font-size:24px">Indian Railway Catering and Tourism Corporation<br>
   is a wholly owned subsidiary of the Indian Railways, <br>
   Ministry of Railways, Government of India.<br>
   It provides ticketing, catering, <br>
